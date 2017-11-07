@@ -18,6 +18,18 @@ SID_LIST_LISTENER =
     (SID_DESC =
       (GLOBAL_DBNAME = Oracle8)
       (SID_NAME = ORCL)
+      (ORACLE_HOME = D:\app\79001\product\11.2.0\dbhome_1)
+      (PROGRAM = extproc)
+      (ENVS = "EXTPROC_DLLS=ONLY:D:\app\79001\product\11.2.0\dbhome_1\bin\oraclr11.dll")
+    )
+    (SID_DESC =
+      (GLOBAL_DBNAME = ORCL)
+      (ORACLE_HOME = ORCL)
+      (SID_NAME = ORCL)
+    )
+    (SID_DESC =
+      (GLOBAL_DBNAME = Oracle8)
+      (SID_NAME = ORCL)
     )
   )
 
